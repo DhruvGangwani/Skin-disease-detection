@@ -3,6 +3,7 @@ Flask API to classify skin disease and send whatsapp message to patient and doct
 
 
 app.py :: Flask API
+
 test_images :: Contains images for testing
 
 Model/best_model.h5 :: Trained model to classify image into seven disease category
