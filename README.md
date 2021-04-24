@@ -2,6 +2,9 @@
 **Flask API to classify skin disease and send whatsapp message to patient and doctor**
 
 
+**Content**
+
+
 **app.py** :: Flask API
 
 **test_images** :: Contains images for testing
